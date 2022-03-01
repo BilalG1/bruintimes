@@ -1,0 +1,107 @@
+<Title>UCLA Announces In Person Classes Starting January 31</Title>
+<Subtitle>After a period of indecisivness the school finally decided to reopen in-person learning, causing a storm of support and hate on social media</Subtitle>
+<Category>School</Category>
+<Author>Steven Phe</Author> 
+<Date>1/21/2022</Date>
+<Id>0001</Id>
+<Image>/0001Main</Image>
+<Body>Today UCLA announced...</Body>
+<<NEW ARTICLE>>
+<Title>UCLA Basketball Team Announcement</Title>
+<Category>Covid</Category>
+<Author>Steven Phe</Author> 
+<Date>1/23/2022</Date>
+<Id>0002</Id>
+<Image>/0002Main</Image>
+<Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi etiam dignissim diam quis. Augue lacus viverra vitae congue. In hendrerit gravida rutrum quisque non tellus orci ac. Eget gravida cum sociis natoque penatibus et. Adipiscing enim eu turpis egestas pretium aenean. Amet consectetur adipiscing elit duis tristique. Velit egestas dui id ornare arcu odio ut sem nulla. Eu volutpat odio facilisis mauris sit amet. Est ante in nibh mauris cursus mattis molestie a iaculis. Facilisi nullam vehicula ipsum a arcu cursus vitae congue. Lacus sed turpis tincidunt id aliquet risus feugiat in. Amet est placerat in egestas. Habitasse platea dictumst quisque sagittis purus sit amet. Vivamus arcu felis bibendum ut. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Vitae ultricies leo integer malesuada nunc vel risus. Nullam vehicula ipsum a arcu cursus vitae congue. Rutrum quisque non tellus orci ac auctor augue mauris. Pretium quam vulputate dignissim suspendisse in est ante in nibh.
+
+Tortor condimentum lacinia quis vel eros donec ac. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Tellus molestie nunc non blandit massa enim nec dui. Sit amet mattis vulputate enim nulla. Sem viverra aliquet eget sit amet tellus cras adipiscing. Non nisi est sit amet. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. Vel orci porta non pulvinar neque. Donec pretium vulputate sapien nec sagittis. Aliquam etiam erat velit scelerisque in dictum non. Et malesuada fames ac turpis egestas sed tempus urna et.
+
+Sit amet cursus sit amet dictum sit amet justo donec. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Quam vulputate dignissim suspendisse in. Ac tortor dignissim convallis aenean et tortor at. Mattis enim ut tellus elementum sagittis vitae. Enim nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus et molestie ac feugiat sed lectus vestibulum. Non diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Mi eget mauris pharetra et. Lacus viverra vitae congue eu consequat ac felis donec et. Ultrices vitae auctor eu augue ut lectus arcu. Id aliquet lectus proin nibh nisl condimentum id venenatis a.
+
+Vel orci porta non pulvinar neque laoreet suspendisse interdum. Risus quis varius quam quisque id diam vel quam elementum. In ornare quam viverra orci. Morbi tincidunt ornare massa eget egestas purus. Libero volutpat sed cras ornare arcu dui vivamus arcu. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. Vel pharetra vel turpis nunc eget lorem dolor. Diam maecenas sed enim ut sem viverra aliquet eget sit. Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Habitasse platea dictumst vestibulum rhoncus. Sed felis eget velit aliquet sagittis. Risus ultricies tristique nulla aliquet enim tortor at auctor. Laoreet id donec ultrices tincidunt arcu non. Morbi non arcu risus quis varius quam quisque id. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Id ornare arcu odio ut sem nulla pharetra diam. Ultricies integer quis auctor elit sed vulputate mi.
+
+<img src="/0002A.png">
+
+Vel risus commodo viverra maecenas accumsan. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Turpis massa sed elementum tempus egestas sed sed risus. Gravida in fermentum et sollicitudin ac orci phasellus. Vestibulum sed arcu non odio euismod lacinia at quis risus. Eros in cursus turpis massa tincidunt dui ut ornare. <b>Adipiscing tristique risus nec feugiat</b> in fermentum posuere urna nec. Faucibus in ornare quam viverra orci sagittis eu. Fermentum et sollicitudin ac orci phasellus egestas. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Et pharetra pharetra massa massa ultricies mi quis hendrerit. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. A condimentum vitae sapien pellentesque.<a href="http://apple.com">apple</a></Body>
+<<NEW ARTICLE>>
+<Title>UCLA Announces In Person Classes Starting January 31</Title>
+<Subtitle>After a period of indecisivness the school finally decided to reopen in-person learning, causing a storm of support and hate on social media</Subtitle>
+<Category>School</Category>
+<Author>Steven Phe</Author> 
+<Date>1/21/2022</Date>
+<Id>0001</Id>
+<Image>/0001Main</Image>
+<Body>Today UCLA announced...</Body>
+<<NEW ARTICLE>>
+<Title>UCLA Basketball Team Announcement</Title>
+<Category>Covid</Category>
+<Author>Steven Phe</Author> 
+<Date>1/23/2022</Date>
+<Id>0002</Id>
+<Image>/0002Main</Image>
+<Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi etiam dignissim diam quis. Augue lacus viverra vitae congue. In hendrerit gravida rutrum quisque non tellus orci ac. Eget gravida cum sociis natoque penatibus et. Adipiscing enim eu turpis egestas pretium aenean. Amet consectetur adipiscing elit duis tristique. Velit egestas dui id ornare arcu odio ut sem nulla. Eu volutpat odio facilisis mauris sit amet. Est ante in nibh mauris cursus mattis molestie a iaculis. Facilisi nullam vehicula ipsum a arcu cursus vitae congue. Lacus sed turpis tincidunt id aliquet risus feugiat in. Amet est placerat in egestas. Habitasse platea dictumst quisque sagittis purus sit amet. Vivamus arcu felis bibendum ut. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Vitae ultricies leo integer malesuada nunc vel risus. Nullam vehicula ipsum a arcu cursus vitae congue. Rutrum quisque non tellus orci ac auctor augue mauris. Pretium quam vulputate dignissim suspendisse in est ante in nibh.
+
+Tortor condimentum lacinia quis vel eros donec ac. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Tellus molestie nunc non blandit massa enim nec dui. Sit amet mattis vulputate enim nulla. Sem viverra aliquet eget sit amet tellus cras adipiscing. Non nisi est sit amet. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. Vel orci porta non pulvinar neque. Donec pretium vulputate sapien nec sagittis. Aliquam etiam erat velit scelerisque in dictum non. Et malesuada fames ac turpis egestas sed tempus urna et.
+
+Sit amet cursus sit amet dictum sit amet justo donec. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Quam vulputate dignissim suspendisse in. Ac tortor dignissim convallis aenean et tortor at. Mattis enim ut tellus elementum sagittis vitae. Enim nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus et molestie ac feugiat sed lectus vestibulum. Non diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Mi eget mauris pharetra et. Lacus viverra vitae congue eu consequat ac felis donec et. Ultrices vitae auctor eu augue ut lectus arcu. Id aliquet lectus proin nibh nisl condimentum id venenatis a.
+
+Vel orci porta non pulvinar neque laoreet suspendisse interdum. Risus quis varius quam quisque id diam vel quam elementum. In ornare quam viverra orci. Morbi tincidunt ornare massa eget egestas purus. Libero volutpat sed cras ornare arcu dui vivamus arcu. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. Vel pharetra vel turpis nunc eget lorem dolor. Diam maecenas sed enim ut sem viverra aliquet eget sit. Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Habitasse platea dictumst vestibulum rhoncus. Sed felis eget velit aliquet sagittis. Risus ultricies tristique nulla aliquet enim tortor at auctor. Laoreet id donec ultrices tincidunt arcu non. Morbi non arcu risus quis varius quam quisque id. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Id ornare arcu odio ut sem nulla pharetra diam. Ultricies integer quis auctor elit sed vulputate mi.
+
+<img src="/0002A.png">
+
+Vel risus commodo viverra maecenas accumsan. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Turpis massa sed elementum tempus egestas sed sed risus. Gravida in fermentum et sollicitudin ac orci phasellus. Vestibulum sed arcu non odio euismod lacinia at quis risus. Eros in cursus turpis massa tincidunt dui ut ornare. <b>Adipiscing tristique risus nec feugiat</b> in fermentum posuere urna nec. Faucibus in ornare quam viverra orci sagittis eu. Fermentum et sollicitudin ac orci phasellus egestas. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Et pharetra pharetra massa massa ultricies mi quis hendrerit. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. A condimentum vitae sapien pellentesque.<a href="http://apple.com">apple</a></Body>
+<<NEW ARTICLE>>
+<Title>UCLA Announces In Person Classes Starting January 31</Title>
+<Subtitle>After a period of indecisivness the school finally decided to reopen in-person learning, causing a storm of support and hate on social media</Subtitle>
+<Category>School</Category>
+<Author>Steven Phe</Author> 
+<Date>1/21/2022</Date>
+<Id>0001</Id>
+<Image>/0001Main</Image>
+<Body>Today UCLA announced...</Body>
+<<NEW ARTICLE>>
+<Title>UCLA Basketball Team Announcement</Title>
+<Category>Covid</Category>
+<Author>Steven Phe</Author> 
+<Date>1/23/2022</Date>
+<Id>0002</Id>
+<Image>/0002Main</Image>
+<Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi etiam dignissim diam quis. Augue lacus viverra vitae congue. In hendrerit gravida rutrum quisque non tellus orci ac. Eget gravida cum sociis natoque penatibus et. Adipiscing enim eu turpis egestas pretium aenean. Amet consectetur adipiscing elit duis tristique. Velit egestas dui id ornare arcu odio ut sem nulla. Eu volutpat odio facilisis mauris sit amet. Est ante in nibh mauris cursus mattis molestie a iaculis. Facilisi nullam vehicula ipsum a arcu cursus vitae congue. Lacus sed turpis tincidunt id aliquet risus feugiat in. Amet est placerat in egestas. Habitasse platea dictumst quisque sagittis purus sit amet. Vivamus arcu felis bibendum ut. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Vitae ultricies leo integer malesuada nunc vel risus. Nullam vehicula ipsum a arcu cursus vitae congue. Rutrum quisque non tellus orci ac auctor augue mauris. Pretium quam vulputate dignissim suspendisse in est ante in nibh.
+
+Tortor condimentum lacinia quis vel eros donec ac. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Tellus molestie nunc non blandit massa enim nec dui. Sit amet mattis vulputate enim nulla. Sem viverra aliquet eget sit amet tellus cras adipiscing. Non nisi est sit amet. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. Vel orci porta non pulvinar neque. Donec pretium vulputate sapien nec sagittis. Aliquam etiam erat velit scelerisque in dictum non. Et malesuada fames ac turpis egestas sed tempus urna et.
+
+Sit amet cursus sit amet dictum sit amet justo donec. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Quam vulputate dignissim suspendisse in. Ac tortor dignissim convallis aenean et tortor at. Mattis enim ut tellus elementum sagittis vitae. Enim nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus et molestie ac feugiat sed lectus vestibulum. Non diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Mi eget mauris pharetra et. Lacus viverra vitae congue eu consequat ac felis donec et. Ultrices vitae auctor eu augue ut lectus arcu. Id aliquet lectus proin nibh nisl condimentum id venenatis a.
+
+Vel orci porta non pulvinar neque laoreet suspendisse interdum. Risus quis varius quam quisque id diam vel quam elementum. In ornare quam viverra orci. Morbi tincidunt ornare massa eget egestas purus. Libero volutpat sed cras ornare arcu dui vivamus arcu. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. Vel pharetra vel turpis nunc eget lorem dolor. Diam maecenas sed enim ut sem viverra aliquet eget sit. Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Habitasse platea dictumst vestibulum rhoncus. Sed felis eget velit aliquet sagittis. Risus ultricies tristique nulla aliquet enim tortor at auctor. Laoreet id donec ultrices tincidunt arcu non. Morbi non arcu risus quis varius quam quisque id. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Id ornare arcu odio ut sem nulla pharetra diam. Ultricies integer quis auctor elit sed vulputate mi.
+
+<img src="/0002A.png">
+
+Vel risus commodo viverra maecenas accumsan. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Turpis massa sed elementum tempus egestas sed sed risus. Gravida in fermentum et sollicitudin ac orci phasellus. Vestibulum sed arcu non odio euismod lacinia at quis risus. Eros in cursus turpis massa tincidunt dui ut ornare. <b>Adipiscing tristique risus nec feugiat</b> in fermentum posuere urna nec. Faucibus in ornare quam viverra orci sagittis eu. Fermentum et sollicitudin ac orci phasellus egestas. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Et pharetra pharetra massa massa ultricies mi quis hendrerit. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. A condimentum vitae sapien pellentesque.<a href="http://apple.com">apple</a></Body>
+<<NEW ARTICLE>>
+<Title>UCLA Announces In Person Classes Starting January 31</Title>
+<Subtitle>After a period of indecisivness the school finally decided to reopen in-person learning, causing a storm of support and hate on social media</Subtitle>
+<Category>School</Category>
+<Author>Steven Phe</Author> 
+<Date>1/21/2022</Date>
+<Id>0001</Id>
+<Image>/0001Main</Image>
+<Body>Today UCLA announced...</Body>
+<<NEW ARTICLE>>
+<Title>UCLA Basketball Team Announcement</Title>
+<Category>Covid</Category>
+<Author>Steven Phe</Author> 
+<Date>1/23/2022</Date>
+<Id>0002</Id>
+<Image>/0002Main</Image>
+<Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi etiam dignissim diam quis. Augue lacus viverra vitae congue. In hendrerit gravida rutrum quisque non tellus orci ac. Eget gravida cum sociis natoque penatibus et. Adipiscing enim eu turpis egestas pretium aenean. Amet consectetur adipiscing elit duis tristique. Velit egestas dui id ornare arcu odio ut sem nulla. Eu volutpat odio facilisis mauris sit amet. Est ante in nibh mauris cursus mattis molestie a iaculis. Facilisi nullam vehicula ipsum a arcu cursus vitae congue. Lacus sed turpis tincidunt id aliquet risus feugiat in. Amet est placerat in egestas. Habitasse platea dictumst quisque sagittis purus sit amet. Vivamus arcu felis bibendum ut. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Vitae ultricies leo integer malesuada nunc vel risus. Nullam vehicula ipsum a arcu cursus vitae congue. Rutrum quisque non tellus orci ac auctor augue mauris. Pretium quam vulputate dignissim suspendisse in est ante in nibh.
+
+Tortor condimentum lacinia quis vel eros donec ac. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Tellus molestie nunc non blandit massa enim nec dui. Sit amet mattis vulputate enim nulla. Sem viverra aliquet eget sit amet tellus cras adipiscing. Non nisi est sit amet. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. Vel orci porta non pulvinar neque. Donec pretium vulputate sapien nec sagittis. Aliquam etiam erat velit scelerisque in dictum non. Et malesuada fames ac turpis egestas sed tempus urna et.
+
+Sit amet cursus sit amet dictum sit amet justo donec. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Quam vulputate dignissim suspendisse in. Ac tortor dignissim convallis aenean et tortor at. Mattis enim ut tellus elementum sagittis vitae. Enim nunc faucibus a pellentesque sit amet porttitor eget dolor. Faucibus et molestie ac feugiat sed lectus vestibulum. Non diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Mi eget mauris pharetra et. Lacus viverra vitae congue eu consequat ac felis donec et. Ultrices vitae auctor eu augue ut lectus arcu. Id aliquet lectus proin nibh nisl condimentum id venenatis a.
+
+Vel orci porta non pulvinar neque laoreet suspendisse interdum. Risus quis varius quam quisque id diam vel quam elementum. In ornare quam viverra orci. Morbi tincidunt ornare massa eget egestas purus. Libero volutpat sed cras ornare arcu dui vivamus arcu. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. Vel pharetra vel turpis nunc eget lorem dolor. Diam maecenas sed enim ut sem viverra aliquet eget sit. Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Habitasse platea dictumst vestibulum rhoncus. Sed felis eget velit aliquet sagittis. Risus ultricies tristique nulla aliquet enim tortor at auctor. Laoreet id donec ultrices tincidunt arcu non. Morbi non arcu risus quis varius quam quisque id. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Id ornare arcu odio ut sem nulla pharetra diam. Ultricies integer quis auctor elit sed vulputate mi.
+
+<img src="/0002A.png">
+
+Vel risus commodo viverra maecenas accumsan. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Turpis massa sed elementum tempus egestas sed sed risus. Gravida in fermentum et sollicitudin ac orci phasellus. Vestibulum sed arcu non odio euismod lacinia at quis risus. Eros in cursus turpis massa tincidunt dui ut ornare. <b>Adipiscing tristique risus nec feugiat</b> in fermentum posuere urna nec. Faucibus in ornare quam viverra orci sagittis eu. Fermentum et sollicitudin ac orci phasellus egestas. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Et pharetra pharetra massa massa ultricies mi quis hendrerit. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. A condimentum vitae sapien pellentesque.<a href="http://apple.com">apple</a></Body>
